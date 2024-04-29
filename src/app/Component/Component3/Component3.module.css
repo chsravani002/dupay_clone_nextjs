@@ -1,0 +1,6 @@
+.divpad{
+    padding: 10px 10% 10px 10%
+}
+.cardReverse {
+    flex-direction: row-reverse;
+}

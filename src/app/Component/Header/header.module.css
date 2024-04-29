@@ -1,0 +1,8 @@
+.button{
+    border-radius: 12px;
+    width: 23%;
+    height: 52px;
+}
+.container{
+    background-image: url("backgroundimg.jpg");
+}
